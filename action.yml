@@ -14,5 +14,5 @@ outputs:
   result:
     description: "Error message with file name, line, column and error. Or a success message with the count of verified files."
 runs:
-  using: "node16"
+  using: "node20"
   main: "index.js"
